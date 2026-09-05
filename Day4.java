@@ -13,7 +13,7 @@ public class Day4 {
         System.out.printf("Jumlah Mahasiswa Kelas PTI A\t: %d Mahasiswa\n", jumlahMahasiswaKlsPTIA); 
 
         // tipe data numerik bilangan bulat long 64 bit, digunakan untuk angka yang sangat besar
-        long saldoTabungan = 1000000000L;
+        long saldoTabungan = 1000000000000L;
         System.out.printf("Saldo Tabungan Saat Ini\t\t: Rp %,d\n", saldoTabungan);
     }
 }
